@@ -87,8 +87,8 @@ Life changes through:
 ## Example Scenarios
 
 ### **Deep Thinking  Moment**
-- π ↑ (perception sharpens)
-- y ↑ (inner ascent)
+- π ↑↑↑ (perception sharpens)
+- y ↑↑↑ (inner ascent)
 - x ≈ low BUT NOT ZERO (minimal action: breathing, focusing)
 - u(t) = constant (the present moment)
 - **Result:** Even though x is small, other variables are so large that the experience is rich
