@@ -89,9 +89,9 @@ Life changes through:
 ### **Deep Thinking  Moment**
 - π ↑ (perception sharpens)
 - y ↑ (inner ascent)
-- x ≈ 0 (physical stillness)
+- x ≈ low BUT NOT ZERO (minimal action: breathing, focusing)
 - u(t) = constant (the present moment)
-- **Result:** Still a powerful experience despite minimal action
+- **Result:** Even though x is small, other variables are so large that the experience is rich
 
 ### **Action-Packed Life**
 - π = moderate
