@@ -86,7 +86,7 @@ Life changes through:
 
 ## Example Scenarios
 
-### **Meditation Moment**
+### **Deep Thinking  Moment**
 - π ↑ (perception sharpens)
 - y ↑ (inner ascent)
 - x ≈ 0 (physical stillness)
